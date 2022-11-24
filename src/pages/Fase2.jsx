@@ -1,7 +1,9 @@
 
 const Fase2 = () => {
   return (
-    <div>Fase2 Component</div>
+    <>
+        <h1>Hola</h1>
+    </>
   )
 }
 
